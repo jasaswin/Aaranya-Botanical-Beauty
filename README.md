@@ -448,7 +448,7 @@ cd Aaranya-Botanical-Beauty
 npm install
 ```
 
-### Start the development server
+### Start the development servers
 
 ```bash
 npm run dev
