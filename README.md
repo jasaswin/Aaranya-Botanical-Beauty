@@ -51,4 +51,4 @@ src/
 
 - All product and article content is original, fictional demo content.
 - Sustainability statistics are illustrative demo figures, not real claims.
-- No backend or authentication is included, per project scope.
+
